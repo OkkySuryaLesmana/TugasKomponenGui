@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TugasKomponenGui_143040025</string>
+    <string-array name="titles">
+        <item>Button</item>
+        <item>EditText</item>
+        <item>CheckBox</item>
+        <item>Radio Button</item>
+        <item>Spinner</item>
+        <item>Picker</item>
+        <item>Studi Kasus</item>
+        <item>Tugas Ke 2</item>
+    </string-array>
+    <string-array name="description">
+        <item>Berisi teks atau ikon yang dapat mengkomunikasikan aksi yang terjadi ketika</item>
+        <item>Komponen yang memungkinkan user untuk memberikan inputan teks dan dapat memiliki</item>
+        <item>Memungkinkan user untuk memilih satu atau lebih pilihan</item>
+        <item>Memungkinkan user untuk memilih satu pilihan</item>
+        <item>Menyediakan cara untu memilih satu nilai dari sebuah himpuna</item>
+        <item>Untuk user dapat memilih waktu atau tanggal degan menggunakan picker</item>
+        <item>Studi Kasus merupakan latihan yang dikerjakan praktikan di ruang praktikum</item>
+        <item>tugas ini dikerjakan oleh praktikan Okky SL</item>
+    </string-array>
+</resources>
